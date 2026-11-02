@@ -13,7 +13,7 @@ class Grass:
 
 class Grass2:
     def __init__(self):
-        pass
+        self.image = load_image('grass.png')
     def draw(self):
         pass
     def update(self):
