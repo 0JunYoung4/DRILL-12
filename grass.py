@@ -15,6 +15,6 @@ class Grass2:
     def __init__(self):
         self.image = load_image('grass.png')
     def draw(self):
-        pass
+        self.image.draw(400,60)
     def update(self):
         pass
