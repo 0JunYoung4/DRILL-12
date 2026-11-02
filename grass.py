@@ -10,3 +10,11 @@ class Grass:
 
     def update(self):
         pass
+
+class Grass2:
+    def __init__(self):
+        pass
+    def draw(self):
+        pass
+    def update(self):
+        pass
